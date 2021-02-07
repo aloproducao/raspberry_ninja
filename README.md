@@ -5,7 +5,7 @@ Turn your Raspberry Pi into a Ninja-cam with hardware-acceleration enabled!  Pub
 
 It is recommended to use the provided raspberry pi image, as the install process is otherwise quite challenging.
 
--- link to image here --
+-- link to image here -- missing link
 username: pi
 password: raspberry
 
